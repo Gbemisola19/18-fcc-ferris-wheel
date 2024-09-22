@@ -1,6 +1,6 @@
 # FCC Ferris Wheel
 
-This is a project about learning CSS animation by building a ferris wheel
+This is a project about learning CSS Animation by building a ferris wheel
 
 ![screenshot](app_screenshot.png)
 
@@ -11,7 +11,7 @@ Additional description of the project and its features.
 - HTML element,
   - `div`
 - CSS,
-  - `transform`, `animation`, `border`, `margin`, `padding`
+  - `transform`, `animation`, `border`, `margin`, `padding`, `color`
 - Linters
   - [Prettier](https://prettier.io/)
   - [stylelint](https://stylelint.io/)
