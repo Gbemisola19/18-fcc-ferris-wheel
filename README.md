@@ -2,7 +2,7 @@
 
 This is a project about learning CSS animation by building a ferris wheel
 
-![screenshot](./app_screenshot.png)
+![screenshot](app_screenshot.png)
 
 Additional description of the project and its features.
 
