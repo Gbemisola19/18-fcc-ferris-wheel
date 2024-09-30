@@ -1,16 +1,20 @@
-# Project Name
+# FCC Ferris Wheel
 
-> One paragraph statement about the project.
+This is a project about learning CSS Animation by building a ferris wheel
 
-![screenshot](./app_screenshot.png)
+![screenshot](app_screenshot.png)
 
 Additional description of the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- HTML element,
+  - `div`
+- CSS,
+  - `transform`, `animation`, `border`, `margin`, `padding`, `color`
+- Linters
+  - [Prettier](https://prettier.io/)
+  - [stylelint](https://stylelint.io/)
 
 ## Live Demo
 
@@ -21,7 +25,7 @@ Additional description of the project and its features.
 - Clone the project
 
 ```bash
-git clone https://github.com/bolah2009/html-css-template.git
+git clone https://github.com/Gbemisola19/18-fcc-ferris-wheel.git
 
 ```
 
@@ -77,9 +81,8 @@ yarn axe
 
 ## 👤 Author
 
-- Github: [@author](https://github.com/author)
-- Twitter: [@author](https://twitter.com/author)
-- Linkedin: [@author](https://www.linkedin.com/in/author/)
+- Github: [Gbemisola19](https://github.com/Gbemisola19)
+- Twitter: [OladipoAzeezat](https://twitter.com/OladipoAzeezat)
 
 ## 🤝 Contributing
 
